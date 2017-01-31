@@ -67,3 +67,24 @@ print_r($result);
 </form>
 
 ```
+
+
+# RESULT
+```
+Array
+(
+    [total] => 2
+    [uploaded] => 2
+    [faild] => 0
+    [file_uploaded] => Array
+        (
+            [0] => cb0290554de4fc8d214aeae5e0054a83.png
+            [1] => 32c8e939b8f86fe35dc5026ae22ea461.png
+        )
+
+    [file_faild] => Array
+        (
+        )
+
+)
+```
